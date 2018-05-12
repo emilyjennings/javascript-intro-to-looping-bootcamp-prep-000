@@ -18,4 +18,4 @@ function whileLoop(n) {
   return "done"
 }
 
-doWhileLoop()
+doWhileLoop(array)
